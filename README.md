@@ -1,6 +1,6 @@
 # 🌐 TranslateTool - Production-Grade Translation Tool
 
-LinguaSwap is a clean, modern, and fully functional language translation web application built as a **single HTML file**. It leverages the free MyMemory API for high-quality translations and the browser's native Web Speech API for text-to-speech functionality.
+TranslateTool is a clean, modern, and fully functional language translation web application built as a **single HTML file**. It leverages the free MyMemory API for high-quality translations and the browser's native Web Speech API for text-to-speech functionality.
 
 ## ✨ Features
 
